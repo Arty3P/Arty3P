@@ -1,6 +1,6 @@
-## 👋 Arty3P, Développeur Web Full Stack | [CV][website]
+## 👋 Arty3P, Développeur Web Full Stack
 
-[![Website](https://img.shields.io/website?label=greggsanchez.fr&style=for-the-badge&url=https%3A%2F%greggsanchez.fr)](https://greggsanchez.fr)
+[![Website](https://img.shields.io/website?label=greggsanchez.fr&style=for-the-badge&url=https://www.greggsanchez.fr)](https://greggsanchez.fr)
 
 ### Des passions éclectiques
 
@@ -9,8 +9,6 @@
 - 🎬 Cinéma
 - 🐶 Animaux
 - 🐉 Fantastique
-
-<br />
 
 ### Langages et Outils:
 
